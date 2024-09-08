@@ -9,7 +9,7 @@
 > 在执行**加载**（覆盖 `PCL\setup.ini` ） `.ini` 文件到 setup.ini 文件
 ## 安装
 - 在 [Releases](https://github.com/PCL-Community/PCL2-Theme-Switcher/Releases) 中下载 `PCL2.Theme.Switcher.exe`（~~由于 GitHub Release Assets 里面不能包含空格所以空格就变成**点**了~~）。
-- 将其放在与 PCL2 启动器（一般为 `Plain Craft Launcher 2.exe`）**同一目录下**，并确保存在**PCL**文件夹以及**PCL\setup.ini**。
+- 将其放在与 PCL2 启动器（一般为 `Plain Craft Launcher 2.exe`）**同一目录下**，并确保存在 **PCL** 文件夹以及 **PCL\setup.ini** 。
 - **打开**本程序，**等待初始化完毕**：**PCL2 启动器同一目录下**出现 `PCL2 Theme Switcher` 文件夹。随后请**手动关闭**本程序并**重新打开**。
 
 ## 使用
