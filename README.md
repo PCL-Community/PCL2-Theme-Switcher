@@ -29,7 +29,7 @@
 # 数值信息
 > [!NOTE]
 > 前面的数值为存储在 `PCL\setup.ini` 里的数据（如 `UiLauncherTheme:14`） ，后面的数值为在 PCL2 里查看的，比如：  
-![1725765206387.png](https://www.freeimg.cn/i/2024/09/08/66dd1659a2830.png)
+![1725765206387.png](https://raw.githubusercontent.com/Ad-closeNN/CD/main/PCL_Theme_Color_Tip.png)
 - `UiLauncherTransparent` : **透明度**，0 为 **40%** 不透明，600 为 **100%** 不透明
 - `UiLauncherDelta` : **色调渐变**，0 为 **-90** 色调渐变，180 为 **+180** 色调渐变
 - `UiLauncherSat` : **饱和度**，0 为 **0%** 饱和度，100 为 **100%** 饱和度
