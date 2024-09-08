@@ -1,5 +1,5 @@
 # 一个能切换 PCL2 自定义主题的颜色的东西
-目前由 [@Ad_closeNN](https://github.com/Ad-closeNN) 开发，~~不过源代码是一坨大便~~还在早期阶段（？不过能用就是了。
+目前由 [@Ad_closeNN](https://github.com/Ad-closeNN) 开发，~~不过源代码是一坨大便~~ 还在早期阶段（？不过能用就是了。
 
 # 使用方法
 > [!IMPORTANT]
